@@ -1,0 +1,5 @@
+{
+  "name": "American Mahjong 2026 Analyzer",
+  "description": "A specialized tool for analyzing American Mahjong hands based on the NMJL 2026 card patterns.",
+  "requestFramePermissions": []
+}
